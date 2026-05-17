@@ -101,4 +101,4 @@ python main.py
 ---
 
 ## Video explicativo
-[Enlace al video — agregar aquí]
+[https://docs.google.com/videos/d/1-cKvpn6AIHUhKOWCdfYfoltVcpKI_poL-bgANAX5lQw/edit?usp=sharing]
